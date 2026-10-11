@@ -1,0 +1,5 @@
+# Copyrighted source material — keep local only
+*.pdf
+Pythoncrashsourse/original/
+Pythoncrashsourse/work/*.en.md
+__pycache__/
